@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SMB Ukraine Club</title>
-    <link>http://example.org/</link>
+    <link>https://smbua.club/</link>
     <description>Recent content on SMB Ukraine Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://smbua.club/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
