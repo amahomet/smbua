@@ -113,6 +113,10 @@ h6 {
   font-weight: 400;
 }
 
+h1 {
+  font-size: 1.8em;
+}
+
 #article p, #article ol li, #article ul li {
   text-align: left;
 }
